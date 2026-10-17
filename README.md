@@ -129,11 +129,9 @@ Sugestão de `.gitignore`:
 
 ## 👤 Autor
 
-**[Seu nome]**
-Analista de BI · [LinkedIn](https://www.linkedin.com/in/seu-perfil) · [GitHub](https://github.com/seu-usuario)
+**Carlos Alexandre de Santana**
+Analista de BI · [LinkedIn](www.linkedin.com/in/carlosalesantana) · 
 
 ---
 
-## 📄 Licença
 
-Defina a licença do projeto (por exemplo, MIT) ou remova esta seção.
