@@ -137,7 +137,7 @@ Sugestão de `.gitignore`:
 ## 👤 Autor
 
 **Carlos Alexandre de Santana**
-Analista de BI · [LinkedIn] www.linkedin.com/in/carlosalesantana 
+Analista de BI · www.linkedin.com/in/carlosalesantana 
 
 ---
 
