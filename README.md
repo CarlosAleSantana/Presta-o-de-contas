@@ -115,6 +115,12 @@ Sugestão de `.gitignore`:
 
 <!-- Adicione prints da versão demo, nunca da base real --><img width="1334" height="504" alt="1" src="https://github.com/user-attachments/assets/f2dd4281-15d0-4091-ad1f-f45f2eb07dd9" />
 
+<img width="1012" height="563" alt="2" src="https://github.com/user-attachments/assets/8afb9ea8-9875-4f3d-ac2a-91df6671881e" />
+
+<img width="1028" height="577" alt="3" src="https://github.com/user-attachments/assets/b493a563-a452-4283-8cba-6d5b8c8d8f6f" />
+
+
+
 <!-- ![Resumo consolidado](docs/resumo.png) -->
 
 ---
