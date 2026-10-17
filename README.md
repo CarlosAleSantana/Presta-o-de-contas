@@ -113,7 +113,8 @@ Sugestão de `.gitignore`:
 
 ## 📸 Capturas de tela
 
-<!-- Adicione prints da versão demo, nunca da base real -->
+<!-- Adicione prints da versão demo, nunca da base real --><img width="1334" height="504" alt="1" src="https://github.com/user-attachments/assets/f2dd4281-15d0-4091-ad1f-f45f2eb07dd9" />
+
 <!-- ![Resumo consolidado](docs/resumo.png) -->
 
 ---
